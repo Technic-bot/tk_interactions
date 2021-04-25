@@ -1,0 +1,14 @@
+For replies_count Mean: 31.29015544041451 Std dev 24.567823037602338
+Found, 11 events in the replies_count category
+date                  tweet  replies_count
+2020-10-22        Twokinds 17th Anniversary! Can't believe it's been that long. The comic is now as old as I was when I started it! That's a weird thought... enjoy this extra-dimensional filler!  https://t.co/1UChOs6dZU            205
+2020-06-27        [Comic][1113] "The Painting Pt 2"  https://t.co/0UGIzsR73M            182
+2021-01-21        [Comic][1134] "The Value of Brutus"  https://t.co/li15gTEThB            155
+2019-12-28        [Comic][1089] "Why Not?" The answer to the last panel is 'Yes. Yes there is.'  https://t.co/orrPUUWPUA  https://t.co/YDGwFHeaFU            117
+2017-10-22        Twokinds is 14 years old today! What a number. Fun Fact: The comic is now older than I was when I registered the first Twokinds domain name.  https://t.co/4DTAlReqnh             98
+2016-05-18        [Comic][917] "Taking Fire"  https://t.co/DiDJ8Xg0vZ  https://t.co/HSf1bvq3iP             93
+2017-10-04                                                                                                                                  [Comic][995] "Breaking Point"  https://t.co/Goh65qnF4Y  https://t.co/aKF3qbn3aH             93
+2017-12-16  [Comic][1008] "Talking to the Ex" Flora and Sythe chat about old times. Very very old times, from our perspective. 12 YEARS since they last met in the comic!  https://t.co/aQO0XDADkH  https://t.co/vamGjFD96e             90
+2019-11-23                                                                                                                                  [Comic][1085] "Reni Returns"   https://t.co/9J0E4OW5mE  https://t.co/dX4XcPQiqj             89
+2020-02-29                                                                                                                      [Comic][1097] "Chapter 20 End" Blood Moon  https://t.co/bVR9pXxAWY  https://t.co/z5Ho9KCeWn             83
+2020-05-09                                                                   [Comic][1105] "The Abandoned Nursery" Sometimes there are things you want to stay forgotten.  https://t.co/AdvqD72DF3  https://t.co/D5XpNajgyI             83

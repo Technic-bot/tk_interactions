@@ -1,0 +1,8 @@
+For comments Mean: 26.60352422907489 Std dev 20.606975060720856
+Found, 5 events in the comments category
+                   date                      title  comments
+162 2015-05-28 01:13:18            Tavern Daughter       119
+158 2015-02-11 22:37:11  Chapter 17 Stranded - End       117
+25  2021-02-07 20:56:52       Poisonous Friendship        91
+43  2020-06-28 02:32:58          The Painting Pt 2        81
+171 2015-10-29 01:38:56      Battlefield Backstory        71

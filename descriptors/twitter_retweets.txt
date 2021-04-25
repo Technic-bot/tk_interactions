@@ -1,0 +1,2 @@
+For retweets_count Mean: 51.80482456140351 Std dev 39.93270572120621
+Found, 39 events in the retweets_count category

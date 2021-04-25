@@ -1,0 +1,2 @@
+For likes_count Mean: 393.8539553752536 Std dev 363.40818338323913
+Found, 48 events in the likes_count category

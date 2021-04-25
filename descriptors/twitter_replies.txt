@@ -1,0 +1,2 @@
+For replies_count Mean: 31.103015075376884 Std dev 24.28760906346876
+Found, 39 events in the replies_count category

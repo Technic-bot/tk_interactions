@@ -1,0 +1,12 @@
+For views Mean: 6810.541818181819 Std dev 3260.7195185661203
+Found, 9 events in the views category
+                   date                         title  views
+67  2019-06-30 00:40:00   Checking on the Prisoner(s)  24189
+85  2019-02-02 22:07:00                  The Dungeons  20555
+491 2010-03-03 17:03:00               March 3rd, 2010  19945
+281 2015-02-11 20:36:00  Wednesday, February 11, 2015  19537
+549 2008-11-01 02:41:00            October 31st, 2008  19248
+504 2009-10-16 17:20:00               October 16 2009  18056
+515 2009-06-30 10:56:00                 June 30, 2009  17375
+306 2014-05-21 12:48:00      Wednesday, May 21st 2014  16776
+218 2016-05-18 06:07:00       Wednesday, May 18, 2016  13974

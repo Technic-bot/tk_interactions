@@ -1,0 +1,12 @@
+For likes_count Mean: 385.89732142857144 Std dev 336.61997796885623
+Found, 9 events in the likes_count category
+          date                                                                                                                                                                                                      tweet  likes_count
+2020-10-22  Twokinds 17th Anniversary! Can't believe it's been that long. The comic is now as old as I was when I started it! That's a weird thought... enjoy this extra-dimensional filler!  https://t.co/1UChOs6dZU         1959
+2020-01-11                                                                                                                  [Comic][1091] "Liquid Courage Required"  https://t.co/fwZrTqc5Y  https://t.co/I8bHFOIMhz         1540
+2017-10-22                                      Twokinds is 14 years old today! What a number. Fun Fact: The comic is now older than I was when I registered the first Twokinds domain name.  https://t.co/4DTAlReqnh         1355
+2020-06-01                        [Incentive] New side comic incentive, featuring the diabolical Prince Clovis and his evil machinations in a possible dark future!  https://t.co/jlR7cIgLq4  https://t.co/d36Gz89pRb         1337
+2019-10-19                                                                                                                      [Comic][1082] "Beach Pounce" Blarg!  https://t.co/riSFHB7IAP  https://t.co/QTx9bLUAqA         1235
+2020-03-28                                                                                                                               [Comic][1101] "Stone Lick"  https://t.co/0imEE8YX7U  https://t.co/zv1xPwDZQ4         1220
+2020-02-15                                                                                                                         [Comic][1095] "Formal Proposal"   https://t.co/qpjqQM0hxP  https://t.co/988zez3cUa         1181
+2020-07-12                                                                                                 [Comic][1114][1115] "The Rose Garden" Double page update  https://t.co/oMtJNQGtZq  https://t.co/zEHXiEUuBv         1158
+2019-05-01                    [Art] "Keith and Natani - First Kiss"  https://t.co/boVgXG6KDX #3 April color vote, suggested by Bacon3600! Based on this comic page:  https://t.co/C2hSuYuD5e  https://t.co/zlnfztKVUf         1095

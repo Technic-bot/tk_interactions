@@ -1,0 +1,13 @@
+For replies Mean: 72.27458256029685 Std dev 50.727483912849394
+Found, 10 events in the replies category
+                   date                         title  replies
+504 2009-10-16 17:20:00               October 16 2009      428
+491 2010-03-03 17:03:00               March 3rd, 2010      406
+515 2009-06-30 10:56:00                 June 30, 2009      290
+306 2014-05-21 12:48:00      Wednesday, May 21st 2014      266
+549 2008-11-01 02:41:00            October 31st, 2008      260
+281 2015-02-11 20:36:00  Wednesday, February 11, 2015      242
+486 2010-04-14 16:41:00                April 14, 2010      226
+532 2009-02-03 23:07:00    Wednesday February 4, 2009      203
+541 2008-12-15 13:28:00      Monday, December 15 2008      191
+523 2009-05-04 12:14:00           Monday, May 4, 2009      191

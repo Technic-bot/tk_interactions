@@ -1,0 +1,12 @@
+For comments Mean: 26.501165501165502 Std dev 20.56851153736537
+Found, 9 events in the comments category
+                   date                                                                title  comments
+273 2015-05-28 01:13:18                                                      Tavern Daughter       119
+294 2015-02-11 22:37:11                                            Chapter 17 Stranded - End       117
+306 2014-12-05 03:28:36  Of Course, 'mortal danger'! I'm not tied up for fun... this time...       111
+314 2014-10-09 06:04:10                                                            Diplomacy       107
+8   2021-02-07 20:56:52                                                 Poisonous Friendship        91
+28  2020-06-28 02:32:58                                                    The Painting Pt 2        81
+246 2015-12-10 05:30:52                                              Shorter Nap Than Nora's        78
+252 2015-10-29 01:38:56                                                Battlefield Backstory        71
+259 2015-08-27 02:05:26                                    Burning Bridges... and Paperwork.        70
